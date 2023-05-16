@@ -3,7 +3,7 @@
 em como fazer sua parte embelezada e suas funcionalidades.
 
 # CSS
-- É exatamente o que você pode meter a mão na massa apos fazer o seu HTML.
+- É exatamente o que você pode meter a mão na massa após fazer o seu HTML.
 Mas vale lembrar que pode ser mais importante ajeitar as funcionalidades
 primeiro.
 
